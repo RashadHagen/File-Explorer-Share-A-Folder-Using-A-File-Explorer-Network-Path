@@ -34,7 +34,7 @@ This project goes over how to share a folder using a File Explorer Network Path.
  <br/>
 
 <div style="text-align:center;">
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Go to the location of the Security Group Folder in File Explorer.  NOTE: By default Microsoft puts a Security Group folder in the path: C:\Shares</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Go to the location of the Folder  (OR)  Security Group Folder in File Explorer.  NOTE: By default, Microsoft puts a Security Group folder in the path: C:\Shares (Windows Server).</b></span>  
 <br/>
 
 <table>
